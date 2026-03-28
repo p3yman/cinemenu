@@ -13,6 +13,8 @@ dist-ssr
 *.local
 .next
 *.db
+*.db-shm
+*.db-wal
 
 # Editor directories and files
 .vscode/*
